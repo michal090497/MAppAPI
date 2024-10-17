@@ -1,0 +1,12 @@
+C:\Users\micha\source\repos\MAppAPI\MApp.Common\bin\Debug\net8.0\MApp.Common.deps.json
+C:\Users\micha\source\repos\MAppAPI\MApp.Common\bin\Debug\net8.0\MApp.Common.dll
+C:\Users\micha\source\repos\MAppAPI\MApp.Common\bin\Debug\net8.0\MApp.Common.pdb
+C:\Users\micha\source\repos\MAppAPI\MApp.Common\obj\Debug\net8.0\MApp.Common.csproj.AssemblyReference.cache
+C:\Users\micha\source\repos\MAppAPI\MApp.Common\obj\Debug\net8.0\MApp.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\source\repos\MAppAPI\MApp.Common\obj\Debug\net8.0\MApp.Common.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\MAppAPI\MApp.Common\obj\Debug\net8.0\MApp.Common.AssemblyInfo.cs
+C:\Users\micha\source\repos\MAppAPI\MApp.Common\obj\Debug\net8.0\MApp.Common.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\MAppAPI\MApp.Common\obj\Debug\net8.0\MApp.Common.dll
+C:\Users\micha\source\repos\MAppAPI\MApp.Common\obj\Debug\net8.0\refint\MApp.Common.dll
+C:\Users\micha\source\repos\MAppAPI\MApp.Common\obj\Debug\net8.0\MApp.Common.pdb
+C:\Users\micha\source\repos\MAppAPI\MApp.Common\obj\Debug\net8.0\ref\MApp.Common.dll

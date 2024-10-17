@@ -1,0 +1,15 @@
+C:\Users\micha\source\repos\MAppAPI\MApp.DataAccess\bin\Debug\net8.0\MApp.DataAccess.deps.json
+C:\Users\micha\source\repos\MAppAPI\MApp.DataAccess\bin\Debug\net8.0\MApp.DataAccess.dll
+C:\Users\micha\source\repos\MAppAPI\MApp.DataAccess\bin\Debug\net8.0\MApp.DataAccess.pdb
+C:\Users\micha\source\repos\MAppAPI\MApp.DataAccess\obj\Debug\net8.0\MApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\source\repos\MAppAPI\MApp.DataAccess\obj\Debug\net8.0\MApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\MAppAPI\MApp.DataAccess\obj\Debug\net8.0\MApp.DataAccess.AssemblyInfo.cs
+C:\Users\micha\source\repos\MAppAPI\MApp.DataAccess\obj\Debug\net8.0\MApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\MAppAPI\MApp.DataAccess\obj\Debug\net8.0\MApp.DataAccess.dll
+C:\Users\micha\source\repos\MAppAPI\MApp.DataAccess\obj\Debug\net8.0\refint\MApp.DataAccess.dll
+C:\Users\micha\source\repos\MAppAPI\MApp.DataAccess\obj\Debug\net8.0\MApp.DataAccess.pdb
+C:\Users\micha\source\repos\MAppAPI\MApp.DataAccess\obj\Debug\net8.0\ref\MApp.DataAccess.dll
+C:\Users\micha\source\repos\MAppAPI\MApp.DataAccess\obj\Debug\net8.0\MApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\micha\source\repos\MAppAPI\MApp.DataAccess\bin\Debug\net8.0\MApp.Common.dll
+C:\Users\micha\source\repos\MAppAPI\MApp.DataAccess\bin\Debug\net8.0\MApp.Common.pdb
+C:\Users\micha\source\repos\MAppAPI\MApp.DataAccess\obj\Debug\net8.0\MApp.DataAccess.csproj.CopyComplete
