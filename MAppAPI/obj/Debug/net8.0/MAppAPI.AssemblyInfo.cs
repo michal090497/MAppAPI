@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MAppAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+269d23bfd0aa31daf5f99aff2a59d9cf2ad0f2d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("MAppAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MAppAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

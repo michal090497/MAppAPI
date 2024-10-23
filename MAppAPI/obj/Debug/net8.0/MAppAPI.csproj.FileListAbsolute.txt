@@ -121,3 +121,4 @@ C:\Users\micha\source\repos\MAppAPI\MAppAPI\bin\Debug\net8.0\MApp.Common.pdb
 C:\Users\micha\source\repos\MAppAPI\MAppAPI\bin\Debug\net8.0\MApp.DataAccess.dll
 C:\Users\micha\source\repos\MAppAPI\MAppAPI\bin\Debug\net8.0\MApp.DataAccess.pdb
 C:\Users\micha\source\repos\MAppAPI\MAppAPI\obj\Debug\net8.0\MAppAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\micha\source\repos\MAppAPI\MAppAPI\obj\Debug\net8.0\MAppAPI.sourcelink.json

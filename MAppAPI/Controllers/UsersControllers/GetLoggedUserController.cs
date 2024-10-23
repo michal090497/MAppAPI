@@ -19,7 +19,7 @@ namespace MAppAPI.Controllers.UsersControllers
         }
 
         [Authorize]
-        [HttpPost]
+        [HttpGet]
         public async Task<DetailedLoggedUserForSending> GetProfile()
         {
             var userID = Request.GetUserID();

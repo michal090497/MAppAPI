@@ -13,3 +13,4 @@ C:\Users\micha\source\repos\MAppAPI\MApp.DataAccess\obj\Debug\net8.0\MApp.DataAc
 C:\Users\micha\source\repos\MAppAPI\MApp.DataAccess\bin\Debug\net8.0\MApp.Common.dll
 C:\Users\micha\source\repos\MAppAPI\MApp.DataAccess\bin\Debug\net8.0\MApp.Common.pdb
 C:\Users\micha\source\repos\MAppAPI\MApp.DataAccess\obj\Debug\net8.0\MApp.DataAccess.csproj.CopyComplete
+C:\Users\micha\source\repos\MAppAPI\MApp.DataAccess\obj\Debug\net8.0\MApp.DataAccess.sourcelink.json
