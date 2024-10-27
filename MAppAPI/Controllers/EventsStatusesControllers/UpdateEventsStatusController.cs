@@ -36,7 +36,7 @@ namespace MAppAPI.Controllers.EventsStatusesControllers
             if (userAccessor.User == null)
                 return null;
             await eventStatusAccessor.FindEntityWithAllDetailedAssocs(id);
-            if (attendanceValidator.CheckAttendance(userAccessor.User, eventStatusAccessor.UserStatus))
+            if (!attendanceValidator.CheckAttendance(userAccessor.User, eventStatusAccessor.UserStatus))
                 return null;
             return await EventsStatusForSending.Create(eventStatusAccessor.UserStatus);
         }

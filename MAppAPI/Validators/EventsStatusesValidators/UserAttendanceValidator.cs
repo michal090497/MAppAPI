@@ -9,9 +9,9 @@ namespace MAppAPI.Validators.EventsStatusesValidators
         public bool CheckAttendance(User user, EventStatus userStatus)
         {
             if(userStatus.OnlineEvent != null)
-                return userStatus.OnlineEvent.Users.Any(x => x == user);
+                return userStatus.OnlineEvent.Users.Any(x => x.ID == user.ID);
             else if (userStatus.PhysicalEvent != null)
-                return userStatus.PhysicalEvent.Users.Any(x => x == user);
+                return userStatus.PhysicalEvent.Users.Any(x => x.ID == user.ID);
             else return false;
         }
     }
